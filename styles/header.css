@@ -20,7 +20,10 @@
     padding: 1em;
 }
 
-.lista-menu{
-    display: none;
+.lista-menu_titulo{
+    color:brown
 
+}
+.lista-menu_item{
+    background: var();
 }
